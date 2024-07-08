@@ -1,4 +1,4 @@
-# Olá! Seja Bem-vindo(a) ao meu GitHub 👋
+# Olá! Seja Bem-vindo(a) ao meu GitHub 🤗
 
 ## Minhas experiências
 - 💻 Tenho experiência com Excel, VBA, Power BI, Power Apps, Power Automate
