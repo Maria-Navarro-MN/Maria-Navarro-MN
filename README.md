@@ -27,4 +27,4 @@ Power Apps, automate
 
 Português Fluente, Espanhol Nativo, Inglês Intermediário
 
-- Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animado para compartilhar meu conhecimento e colaborar em projetos interessantes
+- Fique à vontade para explorar meus projetos e entrar em contato comigo. Estou animada para compartilhar meu conhecimento e colaborar em projetos interessantes!
