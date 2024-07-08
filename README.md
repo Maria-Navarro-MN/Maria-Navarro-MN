@@ -10,6 +10,7 @@ Meu nome é Maria, tenho 20 anos e sou estudante de ADM na Universidade do Estad
 Excel/VBA e PowerBI
 Power Apps, automate
 
+
 ### Soft Skills:
 - Comunicativa
 - Responsavél
@@ -17,6 +18,8 @@ Power Apps, automate
 - Proatividade
 - Senso de urgencia
 - Autodidata
+
+  
 ## Meus projetos
  - Em atualização (Vou coletar e organizar eles para poder mostrar a vocês).
 ###Idiomas
