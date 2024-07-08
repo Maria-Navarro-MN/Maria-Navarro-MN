@@ -23,7 +23,7 @@ Power Apps, automate
 ## Meus projetos
  - Em atualização (Vou coletar e organizar eles para poder mostrar a vocês).
 
-##Idiomas
+## Idiomas
 
 Português Fluente, Espanhol Nativo, Inglês Intermediário
 
