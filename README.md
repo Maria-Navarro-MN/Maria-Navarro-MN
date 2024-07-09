@@ -7,13 +7,13 @@
 Meu nome é Maria, tenho 20 anos e sou estudante de ADM na Universidade do Estado do Rio de Janeiro.
 
 ### Hard Skills:
-Excel/VBA e PowerBI
+Excel/VBA e PowerBI,
 Power Apps, automate
 
 
 ### Soft Skills:
 - Comunicativa
-- Responsavél
+- Responsável
 - Trabalho em equipe
 - Proatividade
 - Senso de urgencia
